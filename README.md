@@ -27,3 +27,7 @@
   ![image.png](https://s2.loli.net/2023/06/04/A9eRTDcmaFVIE4w.png)
 
 - 在登录后根据不同的程序打开时不同的提示即可抢座，**尽量使用发布页面中的两个程序，源码暂时不保证能ok**
+
+致谢：
+- 登录部分使用[GoLibCookie](https://github.com/MikeWang000000/GoLibCookie)
+- 明日预约的websocket使用[gotolibrary_websockets](https://github.com/xiaodouu/gotolibrary_websockets)
